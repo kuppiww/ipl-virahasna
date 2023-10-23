@@ -2,7 +2,7 @@ package lsp;
 
 import java.util.Date;
 
-public class Vegetable extends Product {
+public class Vegetable extends FoodProduct {
     @Override
     String getName(){
         return "Broccoli";

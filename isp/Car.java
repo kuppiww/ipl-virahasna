@@ -1,6 +1,6 @@
 package isp;
 
-public class car implements VehicleInterface,DoorInterface {
+public class Car implements VehicleInterface , DoorInterface {
     @Override
     public void drive(){
 
